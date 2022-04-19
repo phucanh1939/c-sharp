@@ -2,7 +2,8 @@ using System;
 
 class Program
 {
-    static int Main() {
+    static int Main()
+    {
         Console.WriteLine("Hello World!");
         return 0;
     }
